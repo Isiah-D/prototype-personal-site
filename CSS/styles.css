@@ -1,0 +1,29 @@
+
+style  {
+    background-color: Green;
+}
+
+style:focus {
+    background-color:Blue;
+}
+style:active {
+    background-color: black;
+}
+
+body{
+  background-color:Purple;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 10%;
+  border-color: #393e46;
+  border-width: 5px;
+}
+h1 {
+  color: Grey;
+}
+
+h3 {
+  color: Gray;
+}
